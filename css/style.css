@@ -14,18 +14,18 @@ body {
 .contact-fea h1 {
   font-weight: 700;
   padding-bottom: 10px;
-  position: relative;
-  display: inline-block;
+  /* position: relative;
+  display: inline-block; */
 }
 
-.contact-fea h1::after {
+/* .contact-fea h1::after {
   content: "";
-  width: 80px; /* underline  width */
-  height: 3px; /* underline  thickness */
+  width: 80px;
+  height: 3px;
   background: #007bff;
   display: block;
-  margin: 8px auto 0; /* spacing */
-}
+  margin: 8px auto 0;
+} */
 
 .contact-fea p {
   text-align: center;
